@@ -2,7 +2,7 @@
 Statistical analyses of mass shootings in the United States from 1966.
 
 ### Mass Shooting Criteria:
-According to Standford Geospatial Center, a mass killing is defined as a killing with at least three fatal or nonfatal injuries (excluding shooter), excluding the perpetrator.
+According to Standford Geospatial Center, a mass killing is defined as a killing with at least three fatal or nonfatal injuries, excluding the perpetrator.
 https://www.rand.org/research/gun-policy/analysis/essays/mass-shootings.html
 
 ### Questions explored/asked in this project:
