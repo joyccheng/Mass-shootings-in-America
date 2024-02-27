@@ -1,5 +1,5 @@
 # Mass-shootings-in-America
-Statistical analyses of mass shootings in the United States from 1966.
+Perform statistical analysis of mass shootings in the United States from 1966 to 2019.
 
 ### Mass Shooting Criteria:
 According to Standford Geospatial Center, a mass killing is defined as a killing with at least three fatal or nonfatal injuries, excluding the perpetrator.
